@@ -1,0 +1,147 @@
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\Empresa.Presentacion.exe.config
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\Empresa.Presentacion.exe
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\Empresa.Presentacion.pdb
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.csproj.AssemblyReference.cache
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.Menu.resources
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.Properties.Resources.resources
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.csproj.GenerateResource.cache
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.exe
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.pdb
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\Empresa.Entidades.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\Empresa.LogicaNegocios.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\Empresa.Entidades.pdb
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\Empresa.LogicaNegocios.pdb
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.csproj.CopyComplete
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\Empresa.AccesoDatos.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\Npgsql.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Collections.Immutable.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Memory.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Text.Json.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Threading.Channels.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\Empresa.AccesoDatos.pdb
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\Empresa.AccesoDatos.dll.config
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\Npgsql.xml
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Buffers.xml
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Collections.Immutable.xml
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Memory.xml
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Text.Json.xml
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Threading.Channels.xml
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.Presentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\Empresa.Presentacion.exe.config
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\Empresa.Presentacion.exe
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\Empresa.Presentacion.pdb
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\Empresa.AccesoDatos.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\Empresa.Entidades.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\Empresa.LogicaNegocios.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\Npgsql.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Collections.Immutable.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Memory.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Text.Json.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Threading.Channels.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\Empresa.AccesoDatos.pdb
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\Empresa.AccesoDatos.dll.config
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\Empresa.Entidades.pdb
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\Empresa.LogicaNegocios.pdb
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\Npgsql.xml
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Buffers.xml
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Collections.Immutable.xml
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Memory.xml
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Text.Json.xml
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Threading.Channels.xml
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.csproj.AssemblyReference.cache
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.Menu.resources
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.Properties.Resources.resources
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.csproj.GenerateResource.cache
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.csproj.CopyComplete
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.exe
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.pdb
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\Empresa.Presentacion.exe.config
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\Empresa.Presentacion.exe
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\Empresa.Presentacion.pdb
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\Empresa.AccesoDatos.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\Empresa.Entidades.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\Empresa.LogicaNegocios.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\Npgsql.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Collections.Immutable.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Memory.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Text.Json.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Threading.Channels.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\Empresa.AccesoDatos.pdb
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\Empresa.AccesoDatos.dll.config
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\Empresa.Entidades.pdb
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\Empresa.LogicaNegocios.pdb
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\Npgsql.xml
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Buffers.xml
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Collections.Immutable.xml
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Memory.xml
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Text.Json.xml
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Threading.Channels.xml
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.csproj.AssemblyReference.cache
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.Menu.resources
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.Properties.Resources.resources
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.csproj.GenerateResource.cache
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.csproj.CopyComplete
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.exe
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.Presentacion\obj\Debug\Empresa.Presentacion.pdb

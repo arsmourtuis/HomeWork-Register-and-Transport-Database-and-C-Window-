@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Empresa.AccesoDatos",
+    "\\Empresa.Entidades",
+    "\\Empresa.Logica",
+    "\\Empresa.LogicaNegocios",
+    "\\Empresa.Presentacion",
+    "\\Empresa.Presentacion\\bin",
+    "\\Empresa.Presentacion\\obj",
+    "\\Empresa.Presentacion\\Properties"
+  ],
+  "PreviewInSolutionExplorer": false
+}

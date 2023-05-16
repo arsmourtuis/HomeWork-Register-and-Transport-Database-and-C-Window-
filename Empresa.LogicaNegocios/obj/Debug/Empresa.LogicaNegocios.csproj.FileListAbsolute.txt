@@ -1,0 +1,27 @@
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.LogicaNegocios\bin\Debug\Empresa.LogicaNegocios.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.LogicaNegocios\bin\Debug\Empresa.LogicaNegocios.pdb
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.LogicaNegocios\bin\Debug\Empresa.Entidades.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.LogicaNegocios\bin\Debug\Empresa.Entidades.pdb
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.csproj.CopyComplete
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.pdb
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.LogicaNegocios\bin\Debug\Empresa.LogicaNegocios.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.LogicaNegocios\bin\Debug\Empresa.LogicaNegocios.pdb
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.LogicaNegocios\bin\Debug\Empresa.Entidades.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.LogicaNegocios\bin\Debug\Empresa.Entidades.pdb
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.csproj.CopyComplete
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.dll
+C:\Users\arsmourtuis\Desktop\C#\Empresa\Empresa\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.pdb
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.LogicaNegocios\bin\Debug\Empresa.LogicaNegocios.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.LogicaNegocios\bin\Debug\Empresa.LogicaNegocios.pdb
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.LogicaNegocios\bin\Debug\Empresa.Entidades.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.LogicaNegocios\bin\Debug\Empresa.Entidades.pdb
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.csproj.CopyComplete
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.dll
+C:\Users\arsmourtuis\Desktop\C#\transporte\Form con Interfaz\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.pdb

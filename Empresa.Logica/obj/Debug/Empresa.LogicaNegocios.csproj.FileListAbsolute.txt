@@ -1,0 +1,9 @@
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.LogicaNegocios\bin\Debug\Empresa.LogicaNegocios.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.LogicaNegocios\bin\Debug\Empresa.LogicaNegocios.pdb
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.LogicaNegocios\bin\Debug\Empresa.Entidades.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.LogicaNegocios\bin\Debug\Empresa.Entidades.pdb
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.csproj.CopyComplete
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.dll
+C:\Users\MilliPC\Desktop\C Sharp\Empresa\Empresa.LogicaNegocios\obj\Debug\Empresa.LogicaNegocios.pdb
